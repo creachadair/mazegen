@@ -84,7 +84,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
---- Acknowledgements
+## Acknowledgements
 
 Many thanks to Tom Boutell, whose free GD library makes it simple to generate
 PNG output.  Thanks also to Leigh K. Williams, who found a bunch of subtle bugs
