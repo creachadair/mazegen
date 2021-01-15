@@ -1,7 +1,7 @@
 /*
     Name:    mazegen.c
     Purpose: Maze generation driver program.
-    Author:  M. J. Fromberger <http://www.dartmouth.edu/~sting/>
+    Author:  M. J. Fromberger <http://github.com/creachadair>
 
     Copyright (C) 1998, 2004 M. J. Fromberger, All Rights Reserved
 

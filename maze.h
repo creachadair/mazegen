@@ -1,7 +1,7 @@
 /*
   Name:     maze.h
   Purpose:  Maze generation library.
-  Author:   M. J. Fromberger
+  Author:   M. J. Fromberger <http://github.com/creachadair>
 
   Copyright (C) 1998-2006 M. J. Fromberger, All Rights Reserved.
 
