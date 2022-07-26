@@ -25,8 +25,8 @@
 ## 
 
 CC=gcc
-CFLAGS=-Wall -O2 -I/usr/local/include
-LDFLAGS=-L/usr/local/lib
+CFLAGS=-Wall -O2 $(shell pkg-config --cflags gdlib)
+LDFLAGS=$(shell pkg-config --libs gdlib)
 LIBS=-lgd
 TARGETS=mazegen
 
